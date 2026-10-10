@@ -1,0 +1,6 @@
+{
+  "name": "Python Quest: Bug Slayer",
+  "description": "Retro 8-bit cyberpunk open-world RPG where you explore Glitch City, encounter Python bugs, and slay code errors with real debugging tactics and live Gemini AI generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
